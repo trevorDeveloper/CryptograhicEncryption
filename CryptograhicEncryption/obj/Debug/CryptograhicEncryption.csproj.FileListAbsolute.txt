@@ -1,0 +1,10 @@
+C:\Users\Trevor\source\repos\CryptograhicEncryption\CryptograhicEncryption\obj\Debug\CryptograhicEncryption.csprojAssemblyReference.cache
+C:\Users\Trevor\source\repos\CryptograhicEncryption\CryptograhicEncryption\obj\Debug\CryptograhicEncryption.Properties.Resources.resources
+C:\Users\Trevor\source\repos\CryptograhicEncryption\CryptograhicEncryption\obj\Debug\CryptograhicEncryption.csproj.GenerateResource.cache
+C:\Users\Trevor\source\repos\CryptograhicEncryption\CryptograhicEncryption\obj\Debug\CryptograhicEncryption.csproj.CoreCompileInputs.cache
+C:\Users\Trevor\source\repos\CryptograhicEncryption\CryptograhicEncryption\bin\Debug\CryptograhicEncryption.exe.config
+C:\Users\Trevor\source\repos\CryptograhicEncryption\CryptograhicEncryption\bin\Debug\CryptograhicEncryption.exe
+C:\Users\Trevor\source\repos\CryptograhicEncryption\CryptograhicEncryption\bin\Debug\CryptograhicEncryption.pdb
+C:\Users\Trevor\source\repos\CryptograhicEncryption\CryptograhicEncryption\obj\Debug\CryptograhicEncryption.exe
+C:\Users\Trevor\source\repos\CryptograhicEncryption\CryptograhicEncryption\obj\Debug\CryptograhicEncryption.pdb
+C:\Users\Trevor\source\repos\CryptograhicEncryption\CryptograhicEncryption\obj\Debug\CryptograhicEncryption.Cryptography.resources
